@@ -13,3 +13,4 @@ You will find the following scripts here
 
 10. 9-firstdirdeletion deletes /tmp/my_first_directory directory
 11. 10-back changes directory to the previous directory
+12. 11-lists lists current directory, parent directory and boot directory
