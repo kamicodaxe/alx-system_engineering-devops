@@ -7,3 +7,4 @@
 5. 4-empty created empty file hello
 6. 5-execute adds execution perm on file hello
 7. 6-multiple_permissions adds perm x to owner and group, r to others
+8. 7-everybody adds execution permission to the owner, the group owner and the other users.
