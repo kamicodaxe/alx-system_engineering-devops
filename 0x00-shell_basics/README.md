@@ -11,3 +11,4 @@ You will find the following scripts here
 8. 7-movethatfile moves /tmp/betty to /tmp/my_first_directory
 9. 8-firstdelete deleted betty in /tmp/my_first_directory
 
+10. 9-firstdirdeletion deletes /tmp/my_first_directory directory
