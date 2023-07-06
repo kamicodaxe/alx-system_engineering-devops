@@ -18,3 +18,4 @@ You will find the following scripts here
 14. 13-symbolic_link creates symbolic link __ls__ from /bin/ls
 15. 14-copy_html copies all html files to parent directory, non-existing and newer files only
 16. 100-lets_move moves files beginning with upper-case letters to /tmp/u folder
+17. 101-clean_emacs cleans all emacs temp files starting with ~
