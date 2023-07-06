@@ -4,3 +4,4 @@
 2. 1-sho_am_i tells you who is the current user
 3. 2-groups lists group of current user
 4. 3-new_owner changes owner of file hello to betty
+5. 4-empty created empty file hello
