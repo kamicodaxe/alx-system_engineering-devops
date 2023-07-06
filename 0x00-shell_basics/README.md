@@ -7,3 +7,4 @@ You will find the following scripts here
 4. 3-listfiles displays current directory contents in a long format
 5. 4-listmorefiles list all files and folders, hidden files included
 6. 5-listfilesdigitonly list all files in long format with digits
+7. 6-firstdirectory creates directory my_first_directory in the /tmp/ directory.
