@@ -20,3 +20,4 @@ You will find the following scripts here
 16. 100-lets_move moves files beginning with upper-case letters to /tmp/u folder
 17. 101-clean_emacs cleans all emacs temp files starting with ~
 18. 102-tree create directory tree
+19. 103-commas lists current directory in one line seperated by commas
