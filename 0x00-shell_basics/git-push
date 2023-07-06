@@ -1,6 +1,6 @@
 #/bin/bash
 readme_text_to_append="$1"
-commit_message="#2"
+commit_message="$2"
 echo "$readme_text_to_append" >> README.md
 git add .
 git commit -m "$commit_message"
