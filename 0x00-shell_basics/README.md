@@ -15,3 +15,4 @@ You will find the following scripts here
 11. 10-back changes directory to the previous directory
 12. 11-lists lists current directory, parent directory and boot directory
 13. 12-file_type displays file type of tmp/iamfile
+14. 13-symbolic_link creates symbolic link __ls__ from /bin/ls
