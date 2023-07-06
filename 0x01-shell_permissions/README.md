@@ -11,3 +11,4 @@
 9. 8-James_Bond grants all perms to other users only
 10. 9-John_Doe
 11. 10-mirror_permissions clones olleh's mode on hello
+11. 10-mirror_permissions adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
