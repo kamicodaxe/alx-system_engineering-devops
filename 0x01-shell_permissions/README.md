@@ -8,3 +8,4 @@
 6. 5-execute adds execution perm on file hello
 7. 6-multiple_permissions adds perm x to owner and group, r to others
 8. 7-everybody adds execution permission to the owner, the group owner and the other users.
+9. 8-James_Bond grants all perms to other users only
