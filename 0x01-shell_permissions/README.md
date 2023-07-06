@@ -10,3 +10,4 @@
 8. 7-everybody adds execution permission to the owner, the group owner and the other users.
 9. 8-James_Bond grants all perms to other users only
 10. 9-John_Doe
+11. 10-mirror_permissions clones olleh's mode on hello
