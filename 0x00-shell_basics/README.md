@@ -9,3 +9,4 @@ You will find the following scripts here
 6. 5-listfilesdigitonly list all files in long format with digits
 7. 6-firstdirectory creates directory my_first_directory in the /tmp/ directory.
 8. 7-movethatfile moves /tmp/betty to /tmp/my_first_directory
+9. 8-firstdelete deleted betty in /tmp/my_first_directory
