@@ -5,3 +5,4 @@
 3. 2-groups lists group of current user
 4. 3-new_owner changes owner of file hello to betty
 5. 4-empty created empty file hello
+6. 5-execute adds execution perm on file hello
