@@ -5,3 +5,4 @@
 Display the content of /etc/passwd and /etc/hosts
 3-twofiles: Display the content of /etc/passwd and /etc/hosts
 4-lastlines: displays last 10 linses of /etc/passwd
+5-firstlines: displays first 10 linses of /etc/passwd
