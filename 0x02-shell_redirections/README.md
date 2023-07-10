@@ -13,3 +13,5 @@ Display the content of /etc/passwd and /etc/hosts
 10-no_more_js: deletes js files only
 11-directories: counts directories and subdirectories excluding parents
 12-newest_files: Lists 10 newest files
+12-newest_filsles
+13-unique: Prints unique words
