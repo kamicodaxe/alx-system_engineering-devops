@@ -16,3 +16,4 @@ Display the content of /etc/passwd and /etc/hosts
 12-newest_filsles
 13-unique: Prints unique words
 14-findthatword: prints lines with pattern root in /etc/passwd
+14-findthatword: counts lines with root pattern in /etc/passwd
