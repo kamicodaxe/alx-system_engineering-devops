@@ -7,3 +7,4 @@ Display the content of /etc/passwd and /etc/hosts
 4-lastlines: displays last 10 linses of /etc/passwd
 5-firstlines: displays first 10 linses of /etc/passwd
 6-third_line: prints 3rd line of file
+7-file: Creates file \*\'Best
