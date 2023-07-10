@@ -12,3 +12,4 @@ Display the content of /etc/passwd and /etc/hosts
 8-cwd_state: duplicates last line of iacta file
 10-no_more_js: deletes js files only
 11-directories: counts directories and subdirectories excluding parents
+12-newest_files: Lists 10 newest files
