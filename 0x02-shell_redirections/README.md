@@ -21,3 +21,4 @@ Display the content of /etc/passwd and /etc/hosts
 17-hidethisword: prints all lines not including bin in /etc/passwd
 18-letteronly: prints lines starting with a letter
 19-AZ: Replaces A dn C by Z znd e respectively
+20-hiago: delete c and C from output
