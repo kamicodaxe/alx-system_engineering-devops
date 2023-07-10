@@ -22,3 +22,4 @@ Display the content of /etc/passwd and /etc/hosts
 18-letteronly: prints lines starting with a letter
 19-AZ: Replaces A dn C by Z znd e respectively
 20-hiago: delete c and C from output
+21-reverse: reverses autput
