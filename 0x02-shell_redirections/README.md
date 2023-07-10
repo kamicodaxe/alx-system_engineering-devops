@@ -24,3 +24,4 @@ Display the content of /etc/passwd and /etc/hosts
 20-hiago: delete c and C from output
 21-reverse: reverses autput
 20-haigo: delete c and C from output
+22-users_and_homes: List usersand thier home directory
