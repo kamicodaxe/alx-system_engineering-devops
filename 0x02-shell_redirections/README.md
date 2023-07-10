@@ -9,3 +9,4 @@ Display the content of /etc/passwd and /etc/hosts
 6-third_line: prints 3rd line of file
 7-file: Creates file \*\'Best
 8-cwd_state: writes ls -la content in ls_cmd_content
+8-cwd_state: duplicates last line of iacta file
