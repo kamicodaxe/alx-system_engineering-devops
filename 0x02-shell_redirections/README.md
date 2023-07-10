@@ -23,4 +23,4 @@ Display the content of /etc/passwd and /etc/hosts
 19-AZ: Replaces A dn C by Z znd e respectively
 20-hiago: delete c and C from output
 21-reverse: reverses autput
-21-reverse: reverses autput
+20-haigo: delete c and C from output
