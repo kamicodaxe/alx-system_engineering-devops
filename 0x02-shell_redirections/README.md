@@ -27,3 +27,4 @@ Display the content of /etc/passwd and /etc/hosts
 22-users_and_homes: List usersand thier home directory
 100-empty_casks
 101-gifs
+102-acrostic
