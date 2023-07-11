@@ -25,3 +25,4 @@ Display the content of /etc/passwd and /etc/hosts
 21-reverse: reverses autput
 20-haigo: delete c and C from output
 22-users_and_homes: List usersand thier home directory
+100-empty_casks
